@@ -1,5 +1,10 @@
 # Sales_Project_VindraStore
-## OBJECTIVES
+
+## Table of Content
+- [Project Objectives](#project-objectives)
+- [Columns Details](#columns-details)
+
+## Project Objectives
 
 Vindra store wants to create an annual sales report for 2022. So that Vindra can understand their customers and grow more sales in 2023.
 Project Aims- to create a dynamic and interative Excel dashboard
@@ -17,7 +22,7 @@ detailed information about each sales made by the store.
 - Number of Records(Rows):  31048
 - Number of Attributes(Columns): 18
 
-### Columns Details:
+### Columns Details
 ![image](https://github.com/user-attachments/assets/91aebcc6-8394-4f25-a3f0-ab24eaf32dba)
 -	Order ID: unique identifier to distinguish individual orders in a dataset
 -	Cust ID: unique identifier assigned to each customer
