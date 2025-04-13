@@ -2,7 +2,14 @@
 
 ## Table of Content
 - [Project Objectives](#project-objectives)
-- [Columns Details](#columns-details)
+- [Data Sources](#data-sources)
+- [Dataset Description](#dataset-description)
+- [Explorary Data Analysis](#explorary-data-analysis)
+- [Excel Tools Used](#excel-tools-used)
+- [DASHBOARD OVERVIEW](#dashboard-overview)
+- [Result/Findings](#resultfindings)
+- [Recommandation](#recommandation)
+
 
 ## Project Objectives
 
@@ -16,7 +23,7 @@ data.This process involved several stages, including data preprocessing, data cl
 Sales Data: The primary dataset used for this analysis is the "Vindra Store Data Analysis.csv", containing
 detailed information about each sales made by the store.
 
-## DATASET DESCRIPTION
+## Dataset Description
 
 ### Dataset structure
 - Number of Records(Rows):  31048
@@ -59,7 +66,7 @@ EDA involves exploring sales data to answer key questions, such as
 
 ### Excel Tools Used
 
-#### 1.Data Analysis Tools
+#### 1. Data Analysis Tools
 These tools help summarize and analyze data:
 #### 1.Formulas: Essential for calculations and data analysis. Commonly used formulas include:
 -	SUM, AVERAGE, COUNT: For basic calculations.
@@ -67,7 +74,10 @@ These tools help summarize and analyze data:
 -	VLOOKUP, HLOOKUP, XLOOKUP, INDEX-MATCH: For finding data in tables.
 -	TEXT, CONCATENATE: For text manipulation.
 -	ROUND, TRUNC: For controlling numerical precision.
-#### 2.PivotTables: Summarizes large datasets with dynamic filtering and grouping capabilities.
+  
+#### 2. PivotTables: 
+- Summarizes large datasets with dynamic filtering and grouping capabilities.
+ 
 ![image](https://github.com/user-attachments/assets/138df384-c903-40ff-84f5-96f72e7f9096)
 
 
@@ -78,7 +88,9 @@ To create the graphical elements of the dashboard:
 -	Line Charts: For trend analysis over time.
 -	Pie Charts: For proportions.
 -	Scatter Plots: For identifying correlations.
+-	
 ![image](https://github.com/user-attachments/assets/00e7520f-5f2a-4550-b8a8-46a5037c2b53)
+
 ![image](https://github.com/user-attachments/assets/9c91c3c3-09b7-4bb1-8049-50b97ec9637d)
 
 
