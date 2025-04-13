@@ -5,6 +5,7 @@
 - [Data Sources](#data-sources)
 - [Dataset Description](#dataset-description)
 - [Explorary Data Analysis](#explorary-data-analysis)
+- [Data Cleaning](#data-cleaning)
 - [Excel Tools Used](#excel-tools-used)
 - [DASHBOARD OVERVIEW](#dashboard-overview)
 - [Result/Findings](#resultfindings)
@@ -64,11 +65,27 @@ EDA involves exploring sales data to answer key questions, such as
 -	Relation between age and gender based on number of orders
 -	Which channel is contributing to maximum sales?
 
+### Data Cleaning
+Data cleansing (also called data cleaning) is the process of identifying and correcting errors, inconsistencies, and inaccuracies in a dataset to improve its quality and usability for analysis. This step is crucial to ensure that data is reliable, consistent, and free of errors, which is essential for accurate decision-making and insightful analysis.
+
+#### Data Cleaning Operations
+Steps in Data Cleansing
+- Data Inspection
+- Handling Missing Data
+- Standardization:
+- Outlier Detection:
+- Duplicate Removal:
+- Validation and Verification:
+- Transformation:
+- Data Sorting and Filtering
+- Validation
+
 ### Excel Tools Used
 
 #### 1. Data Analysis Tools
 These tools help summarize and analyze data:
-#### 1.Formulas: Essential for calculations and data analysis. Commonly used formulas include:
+#### 1. Formulas:
+Essential for calculations and data analysis. Commonly used formulas include:
 -	SUM, AVERAGE, COUNT: For basic calculations.
 -	IF, IFS: For conditional logic.
 -	VLOOKUP, HLOOKUP, XLOOKUP, INDEX-MATCH: For finding data in tables.
@@ -88,7 +105,7 @@ To create the graphical elements of the dashboard:
 -	Line Charts: For trend analysis over time.
 -	Pie Charts: For proportions.
 -	Scatter Plots: For identifying correlations.
--	
+
 ![image](https://github.com/user-attachments/assets/00e7520f-5f2a-4550-b8a8-46a5037c2b53)
 
 ![image](https://github.com/user-attachments/assets/9c91c3c3-09b7-4bb1-8049-50b97ec9637d)
