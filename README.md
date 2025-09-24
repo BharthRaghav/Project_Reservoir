@@ -1,4 +1,4 @@
-# Sales_Project_Jammy_Store
+# Sales_Project_Vindra_Store
 
 ## Table of Content
 - [Project Objectives](#project-objectives)
@@ -14,7 +14,7 @@
 
 ## Project Objectives
 
-Jammy store wants to create an annual sales report for 2022. So that Vindra can understand their customers and grow more sales in 2023.
+Vindra store wants to create an annual sales report for 2022. So that Vindra can understand their customers and grow more sales in 2023.
 Project Aims- to create a dynamic and interative Excel dashboard
 
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the 
