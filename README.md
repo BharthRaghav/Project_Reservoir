@@ -1,4 +1,4 @@
-# Sales_Project_VindraStore
+# Sales_Project_Jammy_Store
 
 ## Table of Content
 - [Project Objectives](#project-objectives)
@@ -14,14 +14,14 @@
 
 ## Project Objectives
 
-Vindra store wants to create an annual sales report for 2022. So that Vindra can understand their customers and grow more sales in 2023.
+Jammy store wants to create an annual sales report for 2022. So that Vindra can understand their customers and grow more sales in 2023.
 Project Aims- to create a dynamic and interative Excel dashboard
 
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the 
 data.This process involved several stages, including data preprocessing, data cleaning and data visualization.
 
 ## Data Sources
-Sales Data: The primary dataset used for this analysis is the "Vindra Store Data Analysis.csv", containing
+Sales Data: The primary dataset used for this analysis is the "Jammy Store Data Analysis.csv", containing
 detailed information about each sales made by the store.
 
 ## Dataset Description
